@@ -22,4 +22,4 @@ Ejecutar la Aplicación:
 Una vez que todas las dependencias se hayan instalado correctamente, puedes iniciar la aplicación con el siguiente comando:
 npm start
 
-Esto iniciará la aplicación en tu navegador predeterminado. Si no se abre automáticamente, puedes acceder a ella ingresando http://localhost:3000 en tu navegador web.
+Esto iniciará la aplicación en tu navegador predeterminado.
