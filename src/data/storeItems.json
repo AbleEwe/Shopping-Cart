@@ -7,7 +7,7 @@
     },
     {
       "id": 2,
-      "name": "Computadora",
+      "name": "Laptop",
       "price": 800,
       "imgUrl": "./images/laptop.png"
     },
